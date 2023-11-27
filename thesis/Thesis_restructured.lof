@@ -1,0 +1,48 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Overview of a typical BLDC Motor\relax }}{3}{figure.12}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Overview of the Kalman Filter estimation procedure\relax }}{5}{figure.caption.19}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces The typical identification loop, presented in \cite {sid}\relax }}{8}{figure.caption.27}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Current measurement setup\relax }}{10}{figure.caption.30}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Block diagram of the experimental setup, adapted from \cite {fabian}\relax }}{10}{figure.caption.31}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Picture of the Honeywell HMC1052L-TR sensor \citep {fabian}\relax }}{11}{figure.caption.33}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Measuring direction of the Honeywell HMC1052 \citep {honeywell_2}\relax }}{11}{figure.caption.34}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Schematic representation of the estimation set-up\relax }}{13}{figure.caption.36}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Position vs magnetic field strength, measured at $+1000\tmspace +\thinmuskip {.1667em}RPM$\relax }}{14}{figure.caption.40}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Highlight of the signal shape anomalies\relax }}{15}{figure.caption.41}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Speed depended phase shift between measurements at $50$ and $1000\tmspace +\thinmuskip {.1667em}RPM$\relax }}{15}{figure.caption.42}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Magnetic field strength in both measurement directions, measured at $200\tmspace +\thinmuskip {.1667em}RPM$. Presented with respect to the angular position\relax }}{18}{figure.caption.47}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces FEM simulation of the sectional magnetic flux density in a BLDC-Motor \cite {ishak2010electrically}\relax }}{19}{figure.caption.48}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Overview of the sensor position setup at the backside of the BLDC-Motor\relax }}{21}{figure.caption.52}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Comparison of the sensor position presented in \citep {fabian} and the current\relax }}{22}{figure.caption.54}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Magnetic Field Strength in both directions in respect to the angle and in respect to each other for Position $(12mm, x^{\circ })$\relax }}{22}{figure.caption.55}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Measured Magnetic Signals at 3 horizontal translated Positions\relax }}{23}{figure.caption.57}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces BLDC-Motor without the Backside Housing\relax }}{25}{figure.caption.58}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Overview of the spatial relation of the translated Current Position to the Stator Coils\relax }}{25}{figure.caption.59}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Measured Magnetic Signals at 3 horizontal translated Positions, $2.5\tmspace +\thinmuskip {.1667em}mm$ below the original Sensor Position\relax }}{26}{figure.caption.62}%
+\contentsline {figure}{\numberline {4.10}{\ignorespaces Relationship between the measured signals $B_x$ and $B_y$ at several positions\relax }}{27}{figure.caption.63}%
+\contentsline {figure}{\numberline {4.11}{\ignorespaces Magnetic Field Strength in both directions in respect to the angle and in respect to each other for Position $(12mm, x^{\circ \tmspace +\thinmuskip {.1667em}degrees})$\relax }}{28}{figure.caption.64}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Measured magnetic field strength in both direction vs time at $200\tmspace +\thinmuskip {.1667em}RPM$\relax }}{33}{figure.caption.72}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Measured magnetic field strength in both direction vs rotor angle in Degree at $200\tmspace +\thinmuskip {.1667em}RPM$\relax }}{33}{figure.caption.73}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Magnetic field Strength vs Angular Position at 200RPM and 3000RPM\relax }}{34}{figure.caption.75}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Magnetic field Strength vs Angular Position at $-200\tmspace +\thinmuskip {.1667em}RPM$ and $-3000\tmspace +\thinmuskip {.1667em}RPM$\relax }}{35}{figure.caption.76}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Signal presentation of the coilless measurements at $500\tmspace +\thinmuskip {.1667em}RPM$ in either measurement direction\relax }}{36}{figure.caption.79}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Demonstration of the phase shifting occurrence at different rotation speeds and directions for both measured signals\relax }}{37}{figure.caption.80}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Blockdiagram of the input estimation approach\relax }}{39}{figure.caption.84}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Result of the input-output estimation at a speed of $1000\tmspace +\thinmuskip {.1667em}RPM$\relax }}{40}{figure.caption.85}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Blockdiagram of the sensor system\relax }}{41}{figure.caption.87}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Amplitude and phase ratio in respect to the signal frequency\relax }}{43}{figure.caption.88}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Frequency response of a two-order low-pass filter, adopted from \citep {liang2008study}\relax }}{43}{figure.caption.89}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Overview of the \textit {Online} estimation model including the Sensor System\relax }}{46}{figure.caption.92}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Overview of the \textit {Online} estimation model including the Sensor System\relax }}{47}{figure.caption.94}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Overview of the \textit {Offline} procedure including the System Identification \relax }}{50}{figure.caption.108}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Magnetic field strength measured at various rotation speeds, presented with respect to the angular position\relax }}{60}{figure.caption.127}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Comparison of the pre- and post processed magnetic field values, using the N4SID model\relax }}{61}{figure.caption.128}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Comparison of the pre- and post processed magnetic field values, using the SRIVC model on regular setup measurements\relax }}{61}{figure.caption.129}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Rotation speed of the measured coilless test set with respect to the time\relax }}{64}{figure.caption.133}%
+\addvspace {10\p@ }

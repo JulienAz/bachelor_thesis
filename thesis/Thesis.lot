@@ -1,0 +1,23 @@
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {7.1}{\ignorespaces Output error of the identified models for coilless data\relax }}{57}{table.caption.118}%
+\contentsline {table}{\numberline {7.2}{\ignorespaces Model order for each coilless system\relax }}{57}{table.caption.119}%
+\contentsline {table}{\numberline {7.3}{\ignorespaces Output error for each identified model for measurements at $Position_1$\relax }}{58}{table.caption.121}%
+\contentsline {table}{\numberline {7.4}{\ignorespaces System noise matrix for each model\relax }}{63}{table.caption.127}%
+\contentsline {table}{\numberline {7.5}{\ignorespaces Estimation results for positive coilless measurements with the \textit {Impulse Response} model\relax }}{64}{table.caption.129}%
+\contentsline {table}{\numberline {7.6}{\ignorespaces Estimation results for all models on coilless data\relax }}{65}{table.caption.131}%
+\contentsline {table}{\numberline {7.7}{\ignorespaces Estimation error for Imp on Position$_1$\relax }}{67}{table.caption.136}%
+\contentsline {table}{\numberline {7.8}{\ignorespaces Estimation error for SRIVC on Position$_1$\relax }}{68}{table.caption.137}%
+\contentsline {table}{\numberline {7.9}{\ignorespaces Estimation error for N4SID on Position$_1$\relax }}{69}{table.caption.138}%
+\contentsline {table}{\numberline {7.10}{\ignorespaces Computation time per estimation step for every model on both data sets\relax }}{70}{table.caption.140}%
+\contentsline {table}{\numberline {7.11}{\ignorespaces Comparison of the computation time per estimation step in ms\relax }}{72}{table.caption.144}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {A.1}{\ignorespaces Output error of the identified models for coilless data on signal $B_y$\relax }}{75}{table.caption.150}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {B.1}{\ignorespaces Estimation errors for coilless data\relax }}{77}{table.caption.153}%

@@ -1,0 +1,136 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Basarur \bgroup \em et al.\egroup
+  }{}]{basarurposition}
+Ajit Basarur, Jana Mayer, Antonio Zea, and Uwe~D Hanebeck.
+\newblock Position and speed estimation for bldc motors using fourier-series
+  regression.
+
+\bibitem[\protect\citeauthoryear{Honeywell}{a}]{honeywell_2}
+Honeywell.
+\newblock 1, 2 and 3 axis magnetic sensors hmc1051/hmc1052/hmc1053.
+\newblock
+  \url{https://aerospace.honeywell.com/content/dam/aero/en-us/documents/learn/products/sensors/datasheet/HMC_1051-1052-1053_Data_Sheet.pdf}.
+
+\bibitem[\protect\citeauthoryear{Honeywell}{b}]{honeywell}
+Honeywell.
+\newblock 3-axis digital compass ic hmc5883l.
+\newblock \url{https://github.com/
+  TinyCircuits/TinyCircuits-TinyShield-Compass-ASD2613/raw/master/resHMC5883L_3Axis_Digital_Compass_IC_Datasheet.pdf}.
+
+\bibitem[\protect\citeauthoryear{Inc.}{accessed August 15 2020}]{matlabcurve}
+MathWorks Inc.
+\newblock Sum of sines models.
+\newblock \url{https://de.mathworks.com/help/curvefit/sum-of-sine.html},
+  accessed August 15, 2020.
+
+\bibitem[\protect\citeauthoryear{Ishak \bgroup \em et al.\egroup
+  }{2010}]{ishak2010electrically}
+Dahaman Ishak, NA~A Manap, MS~Ahmad, and Mohd~Rizal Arshad.
+\newblock Electrically actuated thrusters for autonomous underwater vehicle.
+\newblock In {\em 2010 11th IEEE International Workshop on Advanced Motion
+  Control (AMC)}, pages 619--624. IEEE, 2010.
+
+\bibitem[\protect\citeauthoryear{Jamaludin \bgroup \em et al.\egroup
+  }{2013}]{jamaludin2013n4sid}
+IW~Jamaludin, NA~Wahab, NS~Khalid, Shafishuhaza Sahlan, Z~Ibrahim, and M~F
+  Rahmat.
+\newblock N4sid and moesp subspace identification methods.
+\newblock In {\em 2013 IEEE 9th International Colloquium on Signal Processing
+  and its Applications}, pages 140--145. IEEE, 2013.
+
+\bibitem[\protect\citeauthoryear{Krishnan}{2017}]{krishnan2017permanent}
+Ramu Krishnan.
+\newblock {\em Permanent magnet synchronous and brushless DC motor drives}.
+\newblock CRC press, 2017.
+
+\bibitem[\protect\citeauthoryear{Liang}{2008}]{liang2008study}
+Wei Liang.
+\newblock {\em Study of optical phase lock loops and the applications in
+  coherent beam combining and coherence cloning}.
+\newblock PhD thesis, California Institute of Technology, 2008.
+
+\bibitem[\protect\citeauthoryear{Ljung}{1999}]{ljung1999system}
+Lennart Ljung.
+\newblock System identification.
+\newblock {\em Wiley encyclopedia of electrical and electronics engineering},
+  pages 1--19, 1999.
+
+\bibitem[\protect\citeauthoryear{Ljung}{2017}]{sid}
+Lennart Ljung.
+\newblock {\em System Identification}, pages 1--19.
+\newblock American Cancer Society, 2017.
+
+\bibitem[\protect\citeauthoryear{Maybeck}{1982}]{maybeck1982stochastic}
+Peter~S Maybeck.
+\newblock {\em Stochastic models, estimation, and control}.
+\newblock Academic press, 1982.
+
+\bibitem[\protect\citeauthoryear{Mayer \bgroup \em et al.\egroup
+  }{}]{mayerposition}
+Jana Mayer, Ajit Basarur, Mariana Petrova, Fabian Sordon, Antonio Zea, and
+  Uwe~D Hanebeck.
+\newblock Position and speed estimation of pmsms using gaussian processes.
+
+\bibitem[\protect\citeauthoryear{Petrova}{2019}]{mariana}
+Mariana Petrova.
+\newblock Improved {Speed} estimation of bldc motors using gaussian processes,
+  10 2019.
+
+\bibitem[\protect\citeauthoryear{Roberts}{2020}]{roberts2020signals}
+Michael~J Roberts.
+\newblock {\em Signals and systems}.
+\newblock 2020.
+
+\bibitem[\protect\citeauthoryear{Rowell}{2002}]{rowell2002state}
+Derek Rowell.
+\newblock State-space representation of lti systems.
+\newblock {\em URL: http://web. mit. edu/2.14/www/Handouts/StateSpace. pdf},
+  2002.
+
+\bibitem[\protect\citeauthoryear{Simon}{2006}]{simon2006optimal}
+Dan Simon.
+\newblock {\em Optimal state estimation: Kalman, H infinity, and nonlinear
+  approaches}.
+\newblock John Wiley \& Sons, 2006.
+
+\bibitem[\protect\citeauthoryear{Sordon}{2019}]{fabian}
+Fabian Sordon.
+\newblock Position estimation of bldc motors using gaussian processes.
+\newblock Master's thesis, Karlsruher Institut für Technologie, 6 2019.
+
+\bibitem[\protect\citeauthoryear{Tietze and
+  Schenk}{2013}]{tietze2013halbleiter}
+Ulrich Tietze and Christoph Schenk.
+\newblock {\em Halbleiter-Schaltungstechnik}.
+\newblock Springer-Verlag, 2013.
+
+\bibitem[\protect\citeauthoryear{Van~Overschee and
+  De~Moor}{1994}]{van1994n4sid}
+Peter Van~Overschee and Bart De~Moor.
+\newblock N4sid: Subspace algorithms for the identification of combined
+  deterministic-stochastic systems.
+\newblock {\em Automatica}, 30(1):75--93, 1994.
+
+\bibitem[\protect\citeauthoryear{Welekar and
+  Apte}{2014}]{welekar2014development}
+Ashwini~M Welekar and AA~Apte.
+\newblock Development of brushless dc motor drive.
+\newblock {\em IOSR Journal of Electrical and Electronics Engineering}, pages
+  12--18, 2014.
+
+\bibitem[\protect\citeauthoryear{Young \bgroup \em et al.\egroup
+  }{2006}]{young2006optimal}
+Peter Young, Hugues Garnier, and Marion Gilson.
+\newblock An optimal instrumental variable approach for identifying hybrid
+  continuous-time box-jenkins models.
+\newblock {\em IFAC Proceedings Volumes}, 39(1):225--230, 2006.
+
+\bibitem[\protect\citeauthoryear{Zhivomirov}{August 16 2020}]{matlabamplitude}
+Hristo Zhivomirov.
+\newblock Amplitude ratio measurement with matlab.
+\newblock
+  \url{https://www.mathworks.com/matlabcentral/fileexchange/50559-amplitude-ratio-measurement-with-matlab},
+  August 16, 2020.
+
+\end{thebibliography}

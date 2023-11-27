@@ -1,0 +1,56 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis_restructured.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: named.bst
+Reallocating 'name_of_file' (item size: 1) to 7 items.
+Database file #1: bibtex.bib
+Warning--entry type for "mariana" isn't style-file defined
+--line 26 of file bibtex.bib
+Warning--empty journal in basarurposition
+Warning--empty year in basarurposition
+Warning--empty journal in mayerposition
+Warning--empty year in mayerposition
+Warning--empty publisher in roberts2020signals
+You've used 22 entries,
+            2439 wiz_defined-function locations,
+            663 strings with 7822 characters,
+and the built_in function-call counts, 7420 in all, are:
+= -- 750
+> -- 267
+< -- 5
++ -- 88
+- -- 86
+* -- 520
+:= -- 1209
+add.period$ -- 65
+call.type$ -- 22
+change.case$ -- 124
+chr.to.int$ -- 21
+cite$ -- 27
+duplicate$ -- 328
+empty$ -- 589
+format.name$ -- 111
+if$ -- 1542
+int.to.chr$ -- 2
+int.to.str$ -- 0
+missing$ -- 21
+newline$ -- 110
+num.names$ -- 66
+pop$ -- 173
+preamble$ -- 1
+purify$ -- 153
+quote$ -- 0
+skip$ -- 270
+stack$ -- 0
+substring$ -- 277
+swap$ -- 78
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 152
+warning$ -- 5
+while$ -- 62
+width$ -- 25
+write$ -- 266
+(There were 6 warnings)
